@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **rakhshancoder@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ekv6s9y-sTyAqeM0t7VA6jDejstM9X7i/view?usp=sharing](https://drive.google.com/file/d/1Ekv6s9y-sTyAqeM0t7VA6jDejstM9X7i/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/18unjIzn8cEKYXBDoD3c0G7Vke-8fSIoW/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
