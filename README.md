@@ -1,5 +1,3 @@
-![github-header-image](https://github.com/user-attachments/assets/6812e0f0-9366-499c-a721-ce2ef0640ba3)
-
 <h1 align="center">Hi 👋, I'm Rakhshan Ahmad</h1>
 <h3 align="center">A passionate full-stack software developer from India</h3>
 
@@ -15,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Open source contributions**
 
-- 👨‍💻 All of my projects are available at [https://rakhshan-portfolio.vercel.app/](https://rakhshan-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio.rakhshan.online](https://portfolio.rakhshan.online/)
 
 - 💬 Ask me about **MERN stack, Next.js, TypeScript, Prisma, and Postgres**
 
