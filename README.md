@@ -7,11 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **SAAS project**
-
 - 🌱 I’m currently learning **DevOps and Advance Back-end communication**
 
-- 🤝 I’m looking for help with **Open source contributions**
+- 🤝 I’m looking for **Opportunities** in **Web Development**
 
 - 👨‍💻 All of my projects are available at [portfolio.rakhshan.online](https://portfolio.rakhshan.online/)
 
