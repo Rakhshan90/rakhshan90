@@ -6,11 +6,6 @@
 
 
 
-
-- 🌱 I’m currently learning **DevOps and Advance Back-end communication**
-
-- 🤝 I’m looking for **Opportunities** in **Web Development**
-
 - 👨‍💻 All of my projects are available at [portfolio.rakhshan.online](https://portfolio.rakhshan.online/)
 
 - 💬 Ask me about **MERN stack, Next.js, TypeScript, Prisma, and Postgres**
